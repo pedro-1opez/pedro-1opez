@@ -1,5 +1,5 @@
 # Hello World, I'm Pedro, a Mexican Back-end Developer
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on my portfolio.<br> 🤝 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning cloud computing.
 
 
 # 💻 Tech Stack:
