@@ -1,4 +1,4 @@
-# Hello World, I'm Pedro, a Mexican Back-end Developer
+# Hello World, I'm Pedro, a Back-end Developer
 🔭 I’m currently working on my portfolio.<br> 🤝 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning cloud computing.
 
 
